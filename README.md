@@ -1,5 +1,5 @@
 # smart-home  Internet of things
-## House temperature via telegram
+## House temperature via telegram with a BOT
 
 ***
 
